@@ -334,3 +334,7 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Yugam Tiwari](https://github.com/yugamtiwari)
+- Place: Kharagpur, India
+- Bio: Student, developer
+- GitHub: [yugamtiwari](https://github.com/yugamtiwari)
